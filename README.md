@@ -23,19 +23,6 @@ AI-ChatBot/
 │── image.png
 │── loading.png
 │── README.md
-📸 Screenshot
-
-Add a screenshot of your chatbot here.
-
-Example:
-
-screenshots/chatbot.png
-⚙️ Setup Instructions
-Clone the repository.
-git clone https://github.com/er-shivam29/AI-ChatBot.git
-Open the project folder.
-cd AI-ChatBot
-Open script.js.
 
 Replace:
 
