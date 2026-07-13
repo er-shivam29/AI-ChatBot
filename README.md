@@ -46,6 +46,7 @@ Voice input
 Markdown rendering
 Code syntax highlighting
 Backend integration for secure API key storage
+
 👨‍💻 Author
 
 Shivam Sahu
